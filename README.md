@@ -7,4 +7,9 @@ Java
 Notepad++
 OOP Principles
 Scanner class
-Methods and Encapsulation
+This project was built to strengthen understanding of Classes and objects,constructors,methods,encapsulation,Loops(do while),Conditional statement,User input Handling,Method Calling,Access Modifiers,Validation logic.Learning outcome.  This project helped reinforce practical Java programmining skills and introduced real-world application structure using clean and modula code
+
+
+Author
+Unity Montjane
+Aspiring Backend Developer and Data enthusiast
